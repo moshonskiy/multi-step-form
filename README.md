@@ -6,6 +6,28 @@ You can enter your data to the form, add files and submit. After submitting uplo
 
 Inputs in the form supports validation. Phone number supports numbers in international format.
 
+## Form steps
+
+##### Step 1
+
+![step1 image](https://github.com/moshonskiy/multi-step-form/blob/main/markdown/img/Step1.png "Step 1")
+
+##### Step 2
+
+![step2 image](https://github.com/moshonskiy/multi-step-form/blob/main/markdown/img/Step2.png "Step 2")
+
+##### Step 3
+
+![step3 image](https://github.com/moshonskiy/multi-step-form/blob/main/markdown/img/Step3.png "Step 3")
+
+##### Result
+
+![result image](https://github.com/moshonskiy/multi-step-form/blob/main/markdown/img/Result.png "Result")
+
+##### Success
+
+![success image](https://github.com/moshonskiy/multi-step-form/blob/main/markdown/img/Success.png "Success")
+
 ## Dependencies used
 
 - react
